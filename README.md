@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-node
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-nodejs
+vue和node.js打造的商城
+>>>>>>> 3198625e285e87ffe415b93593cb5ffcd6926ebf
